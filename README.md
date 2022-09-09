@@ -28,4 +28,4 @@
   
  </div> 
 <strong>Contador de Visitas: deivid0304</strong></span></p>
-<p align="center"><img src="https://user-images.githubusercontent.com/55116927/188241582-a98c3a80-83c9-4dfd-878e-cc126169451a.png" />  <img src="https://profile-counter.glitch.me/deivid0304/count.svg" /></p>
+<p align="rigth"><img src="https://user-images.githubusercontent.com/55116927/188241582-a98c3a80-83c9-4dfd-878e-cc126169451a.png" />  <img src="https://profile-counter.glitch.me/deivid0304/count.svg" /></p>
