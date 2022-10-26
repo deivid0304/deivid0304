@@ -1,4 +1,4 @@
-## Hi, I'm Deivid Marcio, I'm passionate about technology and I'm discovering myself in the programming area. Let´s code together.
+## Hi, My name is Deivid Marcio, I'm passionate about technology and I'm discovering myself in the programming area. Let´s code together.
 
 <div align="left">
   <a href="https://github.com/deivid0304">
