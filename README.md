@@ -1,4 +1,5 @@
-## Hi, I'm Deivid Marcio, I'm passionate about technology and I'm discovering myself in the programming area.
+## Hi, I'm Deivid Marcio, I'm passionate about technology and I'm discovering myself in the programming area. Let´s code together.
+
 <div align="left">
   <a href="https://github.com/deivid0304">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deivid0304&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
