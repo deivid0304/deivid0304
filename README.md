@@ -1,10 +1,25 @@
 ## Hi, My name is Deivid Marcio, I'm passionate about technology and I'm discovering myself in the programming area. Let´s code together.
+  
+<div align="center">
+  <h2> <strong> My Github Stats </strong> <img src="assests/borderseperator.gif"></h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=deivid0304&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
+  <img src="https://streak-stats.demolab.com?    user=deivid0304&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streaks graph"  />
+  <img src="https://github-readme-stats-i66v.vercel.app/api?username=deivid0304&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" height="150" alt="stats graph"  />
+</div> <br>
 
-<div align="left">
-  <a href="https://github.com/deivid0304">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deivid0304&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deivid0304&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
+[![Deivid Marcio Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=deivid0304&custom_title=Deivid_Marcio´s%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/deivid0304/github-readme-activity-graph)
+
+##
+<p align="lefth">
+    <img src="https://komarev.com/ghpvc/?username=deivid0304&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
+</p> <br>
+
+<p align="center">
+<img src="assests/loficity.gif" alt="Lofi Nightlife city scene" />
+</p>
+
+##
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Deivid-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Deivid-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -25,7 +40,3 @@
 ![Snake animation](https://github.com/deivid0304/deivid0304/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-  
- </div> 
-<strong>Contador de Visitas: deivid0304</strong></span></p>
-<p align="rigth"><img src="https://user-images.githubusercontent.com/55116927/188241582-a98c3a80-83c9-4dfd-878e-cc126169451a.png" />  <img src="https://profile-counter.glitch.me/deivid0304/count.svg" /></p>
